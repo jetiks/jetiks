@@ -10,7 +10,7 @@
 - 📫 Contact: nevzattanver@gmail.com & **[LinkedIn](https://www.linkedin.com/in/nevzattanver/)** for collaboration and job opportunities
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jetiks&show_icons=true" alt="jetiks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevzattanver&show_icons=true" alt="nevzattanver" /></p>
 <img src="https://komarev.com/ghpvc/?username=nevzattanver"/>
 
 <!--
