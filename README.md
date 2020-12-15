@@ -11,7 +11,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jetiks&show_icons=true" alt="jetiks" /></p>
-
+<img src="https://komarev.com/ghpvc/?username=nevzattanver"/>
 
 <!--
 **jetiks/jetiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
