@@ -8,6 +8,7 @@
 - 💬 Ask me about Pixhawk and UAVs(Mostly Quads)
 - 🎥 I shooted tutorial videos about autonomous flight with DroneKit at (see Playlists section) [YouTube](https://www.youtube.com/playlist?list=PLTFVNghKfmCygmldRwFWK4wAbyi3QWG0s)
 - 📫 Contact: nevzattanver@gmail.com & **[LinkedIn](https://www.linkedin.com/in/nevzattanver/)** for collaboration and job opportunities
+- 💻 Hackerrank : https://www.hackerrank.com/nevzattanver
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nevzattanver&show_icons=true" alt="nevzattanver" /></p>
