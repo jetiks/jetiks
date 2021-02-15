@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Embedded Software Development, Tensorflow and Python
-- 🤔 I’m looking for help with Unity
+- 🤔 I’m looking for help with STM32 Discovery
 - 💬 Ask me about Pixhawk and UAVs(Mostly Quads)
 - 🎥 I shooted tutorial videos about autonomous flight with DroneKit at (see Playlists section) [YouTube](https://www.youtube.com/playlist?list=PLTFVNghKfmCygmldRwFWK4wAbyi3QWG0s)
 - 📫 Contact: nevzattanver@gmail.com & **[LinkedIn](https://www.linkedin.com/in/nevzattanver/)** for collaboration and job opportunities
